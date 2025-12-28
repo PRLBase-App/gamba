@@ -39,4 +39,9 @@ export const projects = [
     thumbnail: "/thumbnails/solarmoon.png",
     link: "https://flip.solarmoon.xyz/",
   },
-];
+  {
+    name: "Prophed",
+    thumbnail: "/thumbnails/prophed.png",
+    link: "https://prophed.com/casino",
+  },
+ ];
